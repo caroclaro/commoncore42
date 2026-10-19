@@ -36,6 +36,6 @@ int	ft_count_if(char **tab, int (*f)(char*))
 // #include <stdio.h>
 // int	main(void)
 // {
-// 	char *cadena[]= {"Miaunu", "MALNU", "xinsi", "Don Manuel", NULL};
+// 	char *cadena[]= {"Miaunu", "Malnuel", "Marcos", "Mateo", NULL};
 // 	printf("%d", ft_count_if(cadena, &numeroM));
 // }
